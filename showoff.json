@@ -1,14 +1,10 @@
 { "name": "Linux Training", 
   "sections": 
     [ 
-      {"section":"intro"},
-      {"section":"background"},
-      {"section":"layer_the_code"},
-      {"section":"tools"},
-      {"section":"differences_test_bdd"},
-      {"section":"demo"},
-      {"section":"whats_next"},
-      {"section":"wrapup"},
-      {"section":"thanks"}
+      {"section":"history"},
+      {"section":"distros"},
+      {"section":"files"},
+      {"section":"shell"},
+      {"section":"X"}
     ]
 }

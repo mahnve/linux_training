@@ -22,4 +22,18 @@ File Permissions
 
 * 
 
+!SLIDE
 
+Start scripts
+=============
+
+* /etc/init.d
+
+!SLIDE
+
+Configuration
+=============
+
+* All text!
+* /etc globally
+* .xyz locally
